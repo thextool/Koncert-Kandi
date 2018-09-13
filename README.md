@@ -13,7 +13,7 @@
 Each Koncert-Kandi has it's own unique gene and only by interacting with other users can you gain access to their gene. This encourages people to meet and talk to other people, spurring connection, and adding a cool experience to the event.  
 
 
-## 5 user stories (at least):
+## 5 user stories:
 
 * User can turn on device
 * User can see unique gene (color/patter)
@@ -22,8 +22,6 @@ Each Koncert-Kandi has it's own unique gene and only by interacting with other u
 * User can see a map.
 
 ## What technologies do you plan to use?
-
-This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
 * Johnny-Five
 * React
@@ -36,11 +34,6 @@ This does not need to be an exhaustive list. We want you to identify major techn
 * Heroku
 
 ## ERD - Entity Relationship Diagram
-
-This does not need to be your absolute final ERD. We want you thinking about your data and how it might be related. Your ERD can be adjusted as your project progresses. 
-* **You can draw it out & take a picture (quickest option) or use:**
-* [Lucidchart](https://www.lucidchart.com/)
-* Any other software you like
 
 ![](images/ERD.png)
 
@@ -55,4 +48,6 @@ Inlcude some wireframes of your project.
 * Any other software you like
 
 Do not spend more than 2 hours on your wireframes.
+
+https://wireframe.cc/vyHous
 Wearable Tech
