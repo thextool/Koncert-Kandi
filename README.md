@@ -40,7 +40,12 @@ Each Koncert-Kandi has it's own unique gene and only by interacting with other u
 
 ## Wireframes
 
+# New User Landing Page:
 ![](images/New_User.png)
+
+# Main Page:
 ![](images/Main_page.png)
+
+# Update User Information:
 ![](images/Update_Information.png)
 
