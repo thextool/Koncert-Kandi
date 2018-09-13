@@ -40,14 +40,7 @@ Each Koncert-Kandi has it's own unique gene and only by interacting with other u
 
 ## Wireframes
 
-Inlcude some wireframes of your project.
-* **You can draw them out & take a picture (quickest option) or use:**
-* [Wireframe.cc](https://wireframe.cc/)
-* [Draw.io](https://www.draw.io/)
-* [Lucidchart](https://www.lucidchart.com/)
-* Any other software you like
+![](images/New_User.png)
+![](images/Main_page.png)
+![](images/Update_Information.png)
 
-Do not spend more than 2 hours on your wireframes.
-
-https://wireframe.cc/vyHous
-Wearable Tech
