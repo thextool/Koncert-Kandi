@@ -1,0 +1,24 @@
+{
+  "name": "Koncert-Kandi",
+  "version": "1.0.0",
+  "description": "## Project Description:   Koncert Kandi is a wearable tech in the form of a braclet. Each braclet has a LED light strip across the top, one button on the side, An IR reader and sender on the bottom, and micro USB port. Each braclet will be preloaded with it's own unique gene (colors and squence pattern) that no other braclet has.",
+  "main": "strobe.js",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thextool/Koncert-Kandi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thextool/Koncert-Kandi/issues"
+  },
+  "homepage": "https://github.com/thextool/Koncert-Kandi#readme"
+}
