@@ -3,6 +3,7 @@ var five = require("johnny-five"),
 var board = new five.Board();
 
 board.on("ready", function() {
+    console.log(this)
     var index = 0;
     var rainbow = [1, "FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8F00FF"];
     var led = new five.Led.RGB({
