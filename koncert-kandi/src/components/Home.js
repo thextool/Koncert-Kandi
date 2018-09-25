@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import ListOfLights from './ListOfLights'
+import Map from './Map'
 
 
 class Home extends Component {
@@ -8,6 +9,9 @@ class Home extends Component {
         return (
         <div className='home-container'>
             <ListOfLights />
+            {/* <div className='map-container'> */}
+                <Map />
+            {/* </div> */}
         </div>
         )
     }
