@@ -54,16 +54,18 @@ class UpdateProfile extends Component {
         return (
         <div className='form-container'>
             <form className='form' onSubmit={this.handleSubmit} >
-            <div className='form-div'>
+            <div className='form-group mx-sm-3 mb-2'>
                 <label htmlFor='first_name'>First Name:</label>
-                <input type='text' name='first_name' onChange={this.handleChange} />
+                <input className='form-control col-form-label-sm' type='text' name='first_name' onChange={this.handleChange} placeholder="Enter First Name" />
+                
             </div>
-            <div className='form-div'>
+            <div className='form-group mx-sm-3 mb-2'>
                 <label htmlFor='last_name'>Last Name:</label>
-                <input type='text' name='last_name' onChange={this.handleChange} />
+                <input className='form-control' type='text' name='last_name' onChange={this.handleChange} placeholder="Enter Last Name" />
+                <small id="emailHelp" class="form-text text-muted form-control-sm">Your info is not shared when you connect with other people.</small>
             </div>
             <div className='form-button'>
-                <input type='submit' name='submit' value='Save' />
+                <input class="btn btn-primary" type='submit' name='submit' value='Save' />
             </div>
             </form>
             {this.renderRedirect()}
