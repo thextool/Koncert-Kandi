@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import 'leaflet/dist/leaflet.css';
 import Header from './components/Header'
 import Home from './components/Home'
 import UpdateProfile from './components/UpdateProfile'

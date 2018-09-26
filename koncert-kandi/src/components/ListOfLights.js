@@ -20,7 +20,7 @@ class ListOfLights extends Component {
         return (
             <div className="list-group">
                 <h1 className="name-tag">{this.state.userData.data[0].first_name}'s Kandi </h1>
-                <div className="list-group-item list-group-item-action flex-column align-items-start active">
+                <div className="list-group-item list-group-item-action flex-column align-items-start your-gene">
                 <div className="d-flex w-100 justify-content-between">
                     <h5 className="mb-1">Gene Name: Merica</h5>
                 </div>

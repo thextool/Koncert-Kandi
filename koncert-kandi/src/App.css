@@ -1,6 +1,3 @@
-/* * {
-  border: red 2px solid;
-} */
 
 .list-group {
   width: 30%;
@@ -27,8 +24,8 @@
 #nav-title{
   font-family: 'shadows into light', cursive;
   font-size: 3em;
-  text-decoration: underline;
-  color: red;
+  text-decoration: none;
+  color: #007295ff;
 
 }
 
@@ -39,6 +36,7 @@
 
 .name-tag{
   font-family: 'shadows into light', cursive;
+  color: #007295ff;
   text-decoration: none;
 
 }
@@ -46,11 +44,18 @@
 body{
   font-family: 'open sans', sans-serif;
   background-color: #eff7ff;
-
+  height: 100%;
 }
 
 .navbar{
   background-color: #fcfdff;
+  /* background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(100, 100, 100, .5)), url("https://images.unsplash.com/photo-1513346940221-6f673d962e97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1935ff11e2551095e6e4c8a86141aeb7&auto=format&fit=crop&w=1050&q=80"); */
+
+  text-decoration: none;
+}
+
+.navbar-brand{
+  text-decoration: none;
 }
 
 .home-container{
@@ -69,35 +74,21 @@ body{
   justify-content : center;
 }
 
-
-
-
-
-/* .App {
-  text-align: center;
+a:link {
+  text-decoration: none;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+.nav-link{
+  background-color: #007295ff;
   color: white;
 }
 
-.App-title {
-  font-size: 1.5em;
+.your-gene{
+  background-color: #007295ff;
+  color: white;
 }
 
-.App-intro {
-  font-size: large;
+.btn{
+  background-color: #007295ff;
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-} */
