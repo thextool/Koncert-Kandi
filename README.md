@@ -3,7 +3,7 @@ This was my capstone project at Galvanize Web Development Immersive program. See
 
 ## Links
 * [Live website](https://koncert-kandi.firebaseapp.com)
-! [Demo](https://www.youtube.com/watch?v=_TCqt7wErPs)
+* [Video Demo of Prototype](https://www.youtube.com/watch?v=_TCqt7wErPs)
 * [Backend Repo](https://github.com/thextool/koncert-kandi-backend)
 * [Code for Arduino hardware in C](https://github.com/thextool/Koncert-Kandi-Arduino)
 
