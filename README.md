@@ -2,8 +2,10 @@
 This was my capstone project at Galvanize Web Development Immersive program. See capstone proposal for more details. 
 
 ## Links
+* [Live website](https://koncert-kandi.firebaseapp.com)
+! [Demo](https://www.youtube.com/watch?v=_TCqt7wErPs)
 * [Backend Repo](https://github.com/thextool/koncert-kandi-backend)
-* [gists of code from hardware in C](https://gist.github.com/thextool/c80c59f91324577d8ac233bbdcb27bd0)
+* [Code for Arduino hardware in C](https://github.com/thextool/Koncert-Kandi-Arduino)
 
 ## Project Description:
   Koncert Kandi is a wearable tech in the form of a braclet. Each braclet has a LED light strip across the top, one button on the side, An IR reader and sender on the bottom, and micro USB port. Each braclet will be preloaded with it's own unique gene (colors and squence pattern) that no other braclet has. 

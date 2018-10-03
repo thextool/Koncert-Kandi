@@ -4,6 +4,7 @@
   "description": "## Project Description:   Koncert Kandi is a wearable tech in the form of a braclet. Each braclet has a LED light strip across the top, one button on the side, An IR reader and sender on the bottom, and micro USB port. Each braclet will be preloaded with it's own unique gene (colors and squence pattern) that no other braclet has.",
   "main": "strobe.js",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "johnny-five": "^1.0.0"
   },
   "devDependencies": {},
