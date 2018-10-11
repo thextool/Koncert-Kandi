@@ -8,7 +8,7 @@ This was my capstone project at Galvanize Web Development Immersive program. See
 * [Code for Arduino hardware in C](https://github.com/thextool/Koncert-Kandi-Arduino)
 
 ## Project Description:
-  Koncert Kandi is a wearable tech in the form of a braclet. Each braclet has a LED light strip across the top, one button on the side, An IR reader and sender on the bottom, and micro USB port. Each braclet will be preloaded with it's own unique gene (colors and squence pattern) that no other braclet has. 
+  Koncert Kandi is a wearable tech in the form of a braclet. Each bracelet has a LED light strip across the top, one button on the side, An IR reader and sender on the bottom, and micro USB port. Each braclet will be preloaded with it's own unique gene (colors and squence pattern) that no other braclet has. 
   
   When the user first gets their braclet they can plug it into a computer and input their user data(name and location). Then they can hold the button down to turn on the device. The braclet will start it's one gene pattern. When the user double taps the button and shakes hand with another Koncert Kandi wearer the unique gene light patter of each braclet will be transfered to each other via IR reader and sender on the bottom of the braclet. Giving each user an additional patter mode they can access by single tapping the button. They can now cylce through the different patterns. The more patters they collect the more they can cycle through. If they hold the button down for 3 seconds it turns the braclet off. 
   
